@@ -18,4 +18,4 @@ steps:
     actions:
       - type: createIssue
         title: A new issue
-        body: a-response-file.md
+        body: new-issue.md
